@@ -1,0 +1,11 @@
+.tecnologia-bg {
+  background: var(--cor-12);
+  color: var(--cor-0);
+  box-shadow: inset -120px -120px #ffffff;
+}
+
+.tecnologia {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0px 40px;
+}
